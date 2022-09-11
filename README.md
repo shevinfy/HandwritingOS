@@ -1,0 +1,2 @@
+# HandwritingOS
+This one is written and learned lunaix OS operating system, from 0 to complete. It will realize environment building, protection mode, interrupt, virtual memory, memory management, multi process &amp; system call, signal, multithreading, PCI and SATA drivers, file system, shell, network, GUI. You are welcome to watch, participate and correct the wrong knowledge（tr：这个一个手写并学习Lunaix OS操作系统，从0到完整，将实现环境搭建，保护模式，中断，虚拟内存，内存管理，多进程&amp;系统调用，信号，多线程，PCI与SATA驱动，文件系统，Shell，网络，GUI，欢迎大家观看和参与和指正不对的知识）
