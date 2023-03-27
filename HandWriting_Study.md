@@ -1,4 +1,8 @@
+# 写操作系统学习文档：
 
+## 参考：
+
+[Minep/lunaix-os: A simple (yet naive), POSIX-compliant (hopefully!) operating system from scratch! (github.com)](https://github.com/Minep/lunaix-os)
 
 
 

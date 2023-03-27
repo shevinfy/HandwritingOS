@@ -1,5 +1,11 @@
 # 实践：
 
+参考文章：
+
+vmware虚拟机安装ubuntu：[ubuntu20.04安装教程,ubuntu详细安装教程20.04 - ubuntu安装配置教程 - 博客园 (cnblogs.com)](https://www.cnblogs.com/ubuntuanzhuang/p/ubuntu2004.html)
+
+[从零实现操作系统-手把手教你搭建环境 - 腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1872346)
+
 ## 构建纯粹的GCC交叉编译套件（i686-elf）：
 
 ### GCC一条龙构建脚本：
