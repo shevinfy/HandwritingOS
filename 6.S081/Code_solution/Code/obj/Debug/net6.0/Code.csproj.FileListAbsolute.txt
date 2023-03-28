@@ -1,0 +1,15 @@
+F:\学习笔记\important_study\6.S081\Code_solution\Code\bin\Debug\net6.0\Code.exe
+F:\学习笔记\important_study\6.S081\Code_solution\Code\bin\Debug\net6.0\Code.deps.json
+F:\学习笔记\important_study\6.S081\Code_solution\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+F:\学习笔记\important_study\6.S081\Code_solution\Code\bin\Debug\net6.0\Code.dll
+F:\学习笔记\important_study\6.S081\Code_solution\Code\bin\Debug\net6.0\Code.pdb
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.dll
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\refint\Code.dll
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.pdb
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+F:\学习笔记\important_study\6.S081\Code_solution\Code\obj\Debug\net6.0\ref\Code.dll
